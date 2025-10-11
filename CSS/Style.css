@@ -1,7 +1,7 @@
 body {
     
     background-color: #45DED2;
-    background-image: url('C:/Users/Jacob/Desktop/Portfolio website/Website/images/underconstruction.png');
+    background-image: url(C:/Users/Jacob/Desktop/Portfolio website/Website/images/underconstruction.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -19,4 +19,5 @@ img {
 
 .desktop {
     display: none;
+
 }
