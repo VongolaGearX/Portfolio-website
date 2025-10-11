@@ -1,0 +1,22 @@
+body {
+    
+    background-color: #1d2928;
+    background-image: url('underconstruction.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+.mobile {
+    display: inline;
+}
+
+.desktop {
+    display: none;
+}
