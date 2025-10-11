@@ -1,7 +1,7 @@
 body {
     
     background-color: #45DED2;
-    background-image: url("./images/underconstruction.png");
+    background-image: url('../images/underconstruction.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -21,6 +21,7 @@ img {
     display: none;
 
 }
+
 
 
 
